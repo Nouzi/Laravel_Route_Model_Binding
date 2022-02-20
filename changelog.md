@@ -1,4 +1,4 @@
-#Jednoduchý projekt na Route Model Binding v [Laravel 9](https://laravel.com/docs/9.x/routing#route-model-binding).
+# Jednoduchý projekt na Route Model Binding v [Laravel 9](https://laravel.com/docs/9.x/routing#route-model-binding).
 
 ## Daily progress updates
 
