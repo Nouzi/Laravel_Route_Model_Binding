@@ -1,4 +1,6 @@
-# Daily progress updates
+#Jednoduchý projekt na Route Model Binding v [Laravel 9](https://laravel.com/docs/9.x/routing#route-model-binding).
+
+## Daily progress updates
 
 <hr />
 
