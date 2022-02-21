@@ -12,7 +12,10 @@
 
 <body>
 
-<h1 class="bg-green-500"> Hello world</h1>
-
+<div class="pt-10 gap-10 flex justify-center text-white">
+<a class="border border-black p-4 bg-green-800 hover:bg-green-500" href="/lists/1"> Prejsť na list jedna </a>
+<a class="border border-black p-4 bg-green-800 hover:bg-green-500" href="/lists/2"> Prejsť na list dva </a>
+<a class="border border-black p-4 bg-green-800 hover:bg-green-500" href="/lists/3"> Prejsť na list tri </a>
+</div>
 </body>
 </html>
